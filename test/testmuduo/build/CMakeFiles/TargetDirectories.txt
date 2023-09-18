@@ -1,0 +1,3 @@
+/home/zerioww/chatserver/testmuduo/build/CMakeFiles/server.dir
+/home/zerioww/chatserver/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/zerioww/chatserver/testmuduo/build/CMakeFiles/rebuild_cache.dir
